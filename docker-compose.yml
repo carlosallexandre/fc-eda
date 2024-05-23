@@ -3,3 +3,4 @@ version: "3"
 include:
   - kafka/compose.yml
   - wallet-core/docker-compose.yaml
+  - wallet-balance/docker-compose.yml

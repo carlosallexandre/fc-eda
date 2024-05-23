@@ -1,0 +1,5 @@
+# John Doe accountId: b8851416-a486-465f-bc14-00dd2eab30c9
+# Jane Doe accountId: 91c61fd4-0e44-4bda-9b7e-1a4083c019ea
+
+GET http://localhost:3003/balances/b8851416-a486-465f-bc14-00dd2eab30c9 HTTP/1.1
+Accept: application/json
